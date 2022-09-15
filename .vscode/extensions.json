@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-vsliveshare.vsliveshare-pack",
+        "vscjava.vscode-lombok",
+        "christian-kohler.path-intellisense",
+        "redhat.java",
+        "vscjava.vscode-java-pack",
+        "redhat.vscode-yaml",
+        "Pivotal.vscode-boot-dev-pack",
+        "redhat.fabric8-analytics",
+        "donjayamanne.githistory",
+        "aaron-bond.better-comments"
+    ]
+}
