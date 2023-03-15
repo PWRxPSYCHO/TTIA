@@ -1,0 +1,13 @@
+target/
+*.log
+*.iml
+.mvn/
+.idea/
+.DS_Store
+.git/
+README.md
+certs/
+.vscode/
+logs/
+postman-collection/
+.dccache
